@@ -5,4 +5,4 @@ Please don't use this implementation for anything professional.
 There might be some edge cases in the implementation which are not handled.
 I'm not responsible for anything.*
 
-### Based on the [research paper](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf).
+### Based on the [research paper](NIST.FIPS.197-upd1.pdf).
